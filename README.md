@@ -1,2 +1,8 @@
 # zphisher0
-### Installation  - Just, Clone this repository - ``` $ https://github.com/Anony-Mux-Gaming/zphisher0 ``` - Change to cloned directory and run `zphisher.sh` - ``` $ cd zphisher $ bash zphisher.sh ```  - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+###Installation  
+1st command -> apt-get update          
+2nd command -> apt-get upgrade            
+3rd command -> https://github.com/Anony-Mux-Gaming/zphisher0                 
+4th command -> cd zphisher0            
+5th command-> bash zphisher.sh            
+ Your download process is completed                  
